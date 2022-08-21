@@ -1,0 +1,2 @@
+# Hercules
+IoT board 4OUT, 4IN, 4ANALOG, ETHERNET, WIFI, BLE, RS485
